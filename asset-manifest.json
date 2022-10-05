@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/atla-app/static/css/main.4981ff32.css",
+    "main.js": "/atla-app/static/js/main.d6af7650.js",
+    "index.html": "/atla-app/index.html",
+    "static/media/search.svg": "/atla-app/static/media/search.67a81d0af170d5f57258e621b4cd47e7.svg",
+    "main.4981ff32.css.map": "/atla-app/static/css/main.4981ff32.css.map",
+    "main.d6af7650.js.map": "/atla-app/static/js/main.d6af7650.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4981ff32.css",
+    "static/js/main.d6af7650.js"
+  ]
+}
