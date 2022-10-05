@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+.App {
+  padding: 4rem;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+
+.container {
+  width: 100%;
+  margin-top: 3rem;
+
+  display: flex;
+  justify-content: space-around;
+  column-gap: 20px;
+  row-gap: 20px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.search {
+  width: 71%;
+  margin: 4rem 0 2rem;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  padding: 1rem;
+  border-radius: 3rem;
+  background: #4a321d;
+  box-shadow: 5px 10px 15px;
+}
+
+.search input {
+  width: 71%;
+  flex: 1;
+  border: none;
+  font-size: 1.5rem;
+  padding-right: 1rem;
+
+  outline: none;
+  color: #a1a1a1;
+  background: #4a321d;
+}
+
+.card {
+  border: none;
+}
+
+.card:hover {
+  box-shadow: 5px 10px 15px;
+  transition: all 0.3s ease-in-out;
+}
+
