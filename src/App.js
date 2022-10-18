@@ -38,7 +38,9 @@ const App = () => {
   return (
     <div className='App'>
       
-      <h1>Avatar the Last Airbender App</h1>
+      <div className='titlebox'>
+        <h1>Avatar the Last Airbender App</h1>
+      </div>
       
       <div className='search'>
         <input 

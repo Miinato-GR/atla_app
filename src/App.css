@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
 
 .App {
-  padding: 4rem;
+  /* padding: 4rem; */
 
   display: flex;
   justify-content: center;
@@ -9,6 +9,16 @@
   flex-direction: column;
 }
 
+.titlebox {
+  background-color: #a1a1a1;
+  text-align: center;
+  width: 100%;
+  padding: 1rem;
+}
+
+.titlebox h1 {
+  
+}
 
 .container {
   width: 100%;
