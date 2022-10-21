@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/atla_app/static/css/main.4981ff32.css",
-    "main.js": "/atla_app/static/js/main.d58f138d.js",
+    "main.css": "/atla_app/static/css/main.f90b25d4.css",
+    "main.js": "/atla_app/static/js/main.17cfa886.js",
     "index.html": "/atla_app/index.html",
     "static/media/search.svg": "/atla_app/static/media/search.67a81d0af170d5f57258e621b4cd47e7.svg",
-    "main.4981ff32.css.map": "/atla_app/static/css/main.4981ff32.css.map",
-    "main.d58f138d.js.map": "/atla_app/static/js/main.d58f138d.js.map"
+    "main.f90b25d4.css.map": "/atla_app/static/css/main.f90b25d4.css.map",
+    "main.17cfa886.js.map": "/atla_app/static/js/main.17cfa886.js.map"
   },
   "entrypoints": [
-    "static/css/main.4981ff32.css",
-    "static/js/main.d58f138d.js"
+    "static/css/main.f90b25d4.css",
+    "static/js/main.17cfa886.js"
   ]
 }
